@@ -1,0 +1,10 @@
+[submodule "PlatformFrontend"]
+	path = PlatformFrontend
+	url = https://github.com/sirepandeyy/PlatformFrontend.git
+	branch = master
+[submodule "PlatformBackend"]
+	path = PlatformBackend
+	url = https://github.com/sirepandeyy/PlatformBackend.git
+[submodule "PlatformApiGateway"]
+	path = PlatformApiGateway
+	url = https://github.com/sirepandeyy/PlatformApiGateway.git
